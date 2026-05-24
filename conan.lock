@@ -1,0 +1,18 @@
+{
+  "version": "0.5",
+  "requires": [
+    "openssl/1.1.1t#a1b2c3d4e5f6a1b2%1704067200",
+    "boost/1.79.0#b2c3d4e5f6a1b2c3%1704067201",
+    "zlib/1.2.11#c3d4e5f6a1b2c3d4%1704067202",
+    "fmt/9.1.0#d4e5f6a1b2c3d4e5%1704067203",
+    "spdlog/1.11.0#e5f6a1b2c3d4e5f6%1704067204",
+    "libpcap/1.10.1#f6a1b2c3d4e5f6a1%1704067205",
+    "nlohmann_json/3.11.2#a1b2c3d4e5f6b2c3%1704067206",
+    "rabbitmq-c/0.13.0#b2c3d4e5f6a1c3d4%1704067207",
+    "libcurl/7.85.0#c3d4e5f6a1b2d4e5%1704067208",
+    "bzip2/1.0.8#d4e5f6a1b2c3e5f6%1704067209",
+    "libiconv/1.17#e5f6a1b2c3d4f6a1%1704067210"
+  ],
+  "build_requires": [],
+  "python_requires": []
+}
